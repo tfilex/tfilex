@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I am a student at Peoples' Friendship University of Russia<br>I work as a z/os mainframe system administrator at RZD</h2>
+<h2 align="left">I am a student at Peoples' Friendship University of Russia<br>I work as a z/os mainframe system administrator at RZD <img src="./media/rzd.png" width="40" height="40" style="vertical-align: middle;"> </h2>
 
 ###
 
@@ -25,6 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
   <img width="12" />
+  <img src="./media/zos.png" height="40" alt="z/OS logo" title="IBM z/OS" />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="tensorflow logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="pytorch logo"  />
@@ -33,5 +35,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
 </div>
-
-###
