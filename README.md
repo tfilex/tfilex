@@ -6,7 +6,7 @@
 
 ###
 
-<h2 align="left">I am a student at Peoples' Friendship University of Russia<br>I work as a z/os mainframe system administrator at RZD</h2>
+<h2 align="left">I am a student of the Faculty of Artificial Intelligence at the Peoples' Friendship University of Russia I work as a z/os mainframe system administrator at Russian Railways</h2>
 
 ###
 
